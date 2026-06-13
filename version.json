@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "mandatory": false,
+  "min_supported": "",
+  "url": "https://github.com/cobaetoo/withholding-tax-releases/releases/download/v1.0.0/원천징수자동화_설치.exe",
+  "sha256": "9a5808121e6f28ed766cd028fab1e3332dd4cb1facfdf97d40552ea23183834d",
+  "size": 213722890,
+  "notes": "최초 공개 릴리스 v1.0.0",
+  "released": "2026-06-13"
+}
