@@ -1,10 +1,10 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "mandatory": false,
   "min_supported": "",
-  "url": "https://github.com/cobaetoo/withholding-tax-releases/releases/download/v1.0.2/원천징수자동화_설치.exe",
-  "sha256": "bc2a51f2afa1b7577022b3ca71d8eeb539080e6a179a1dba62bdff11235f009b",
-  "size": 213705316,
-  "notes": "v1.0.2 — 바탕화면 경로 단일화(OneDrive/한국어/GPO 리다이렉션 대응), 선택건 실행 dry_run 미반영 버그 수정(#4), requirements pdfplumber 누락 보완",
-  "released": "2026-06-13"
+  "url": "https://github.com/cobaetoo/withholding-tax-releases/releases/download/v1.0.3/whta_setup.exe",
+  "sha256": "c04f79f38d79ab0c4039c1f14afac6925057761bcb885b39fbf3414480c96403",
+  "size": 233313821,
+  "notes": "버그 수정 및 기능 개선",
+  "released": "2026-06-15"
 }
